@@ -48,7 +48,7 @@
     hsl(0, 0%, 25%) 0%, 
     hsla(0, 0%, 25%, 0) 50%
   );
-  --text-gradient-yellow: linear-gradient(
+  --text-gradient-onyx: linear-gradient(
     to right, 
     hsl(45, 100%, 72%), 
     hsl(35, 100%, 68%)
@@ -192,7 +192,7 @@ article {
   justify-content: center;
   align-items: center;
   font-size: 16px;
-  color: var(--orange-yellow-crayola);
+  color: var(--white-blue-crayola);
   box-shadow: var(--shadow-1);
   z-index: 1;
 }
@@ -251,7 +251,7 @@ article.active {
   left: 0;
   width: 30px;
   height: 3px;
-  background: var(--text-gradient-yellow);
+  background: var(--text-gradient-white);
   border-radius: 3px;
 }
 
