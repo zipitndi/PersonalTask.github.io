@@ -7,3 +7,7 @@ Tugas :
 - Membuat website wordpress dengan database terpisah ( 3 website)
 
 - Jelaskan kegunaan antara union, select, wait dan -- .
+
+- Memberikan Hak Access Grant pada mysql
+
+- Jenis Jenis Access control
